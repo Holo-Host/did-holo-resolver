@@ -2,11 +2,11 @@
 
 Decentralized Identifiers are designed to be compatible with any distributed ledger or network (called the target system). We will be specing and prototyping a DID method for holochain.
 
-`**did:holo:**`
+**`did:holo:`**
 
 ## Documentations:
 - [Decentralized Identifiers- Data Model and Syntaxes](https://w3c-ccg.github.io/did-spec/)
-- [did:holo resolver](./doc/did_holo_spec.md)
+- [did:holo resolver specs](./doc/did_holo_spec.md)
 
 ## Installation
 
