@@ -1,23 +1,21 @@
-# Simple Node with Express Server
+# did holo resolver (Driver)
 
-[![Build Status](https://travis-ci.org/rwieruch/node-express-server.svg?branch=master)](https://travis-ci.org/rwieruch/node-express-server) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/) [![Greenkeeper badge](https://badges.greenkeeper.io/rwieruch/node-express-server.svg)](https://greenkeeper.io/)
+Decentralized Identifiers are designed to be compatible with any distributed ledger or network (called the target system). We will be specing and prototyping a DID method for holochain.
 
-An easy way to get started with a Express server with Node.js.
+`**did:holo:**`
 
-## Features
+## Documentations:
+- [Decentralized Identifiers- Data Model and Syntaxes](https://w3c-ccg.github.io/did-spec/)
+- [did:holo resolver](./doc/did_holo_spec.md)
 
-* Babel 7
-* Environment Variables
-* Express
+## Installation
+
+* `git clone git@github.com:Holo-Host/did-holo-resolver.git`
+* `cd did-holo-resolver`
+* `npm install`
+* `npm start`
 
 ## Requirements
 
 * [node & npm](https://nodejs.org/en/)
 * [git](https://www.robinwieruch.de/git-essential-commands/)
-
-## Installation
-
-* `git clone git@github.com:rwieruch/node-express-server.git`
-* `cd node-express-server`
-* `npm install`
-* `npm start`
