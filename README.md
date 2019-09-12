@@ -1,6 +1,6 @@
 # did holo resolver (Driver)
 
-Decentralized Identifiers are designed to be compatible with any distributed ledger or network (called the target system). We will be specing and prototyping a DID method for holochain.
+Decentralized Identifiers are designed to be compatible with any distributed ledger or network (called the target system). This is specing and prototyping a DID method for holochain.
 
 **`did:holo:`**
 
